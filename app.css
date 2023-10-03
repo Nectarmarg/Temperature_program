@@ -1,0 +1,28 @@
+button:hover {
+  color: red;
+}
+
+button:active {
+  color: yellow;
+  background-color: black;
+}
+
+body {
+  background-color: black;
+}
+
+.kati {
+  color: red;
+
+}
+
+input {
+  color: black;
+  background-color: lightgray;
+
+
+}
+
+label {
+  color: red;
+}
